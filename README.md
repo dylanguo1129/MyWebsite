@@ -1,2 +1,2 @@
-# MyWebsite
-My first website built by html, css, js and flask, API
+# SimpleWebsiteProject
+The source code for my web project class
